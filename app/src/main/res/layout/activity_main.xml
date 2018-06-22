@@ -54,7 +54,7 @@
                     android:paddingBottom="10dp"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Nama  : R Rifa Fauzi Komara"/>
+                    android:text="Nama  : Rifa"/>
 
                 <TextView
                     android:layout_width="match_parent"
